@@ -87,6 +87,7 @@ body {
   letter-spacing: 0.02em;
   margin-left: auto;
   padding-left: 0;
+  align-items: center;
 }
 
 .header-contacts .header-contacts-item + .header-contacts-item {
@@ -117,6 +118,10 @@ body {
 
 .nav-list-item:not(:last-child) {
   margin-right: 50px;
+}
+
+.icon-mail {
+  margin-right: 10px;
 }
 
 /* ГЛАВНАЯ СТРАНИЦА */
